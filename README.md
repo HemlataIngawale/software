@@ -1,1 +1,2 @@
-# software
+a=sam
+print('a')
