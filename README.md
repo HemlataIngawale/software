@@ -1,2 +1,2 @@
-a=sam
+a=sam;
 print('a')
